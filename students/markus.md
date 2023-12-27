@@ -1,2 +1,4 @@
 # tanishak agarwal
-# hey hey
+# 2nd year bca cse student 
+
+# studying at jklu.
